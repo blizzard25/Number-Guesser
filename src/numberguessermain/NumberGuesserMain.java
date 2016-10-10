@@ -3,12 +3,8 @@ package numberguessermain;
 public class NumberGuesserMain {
 
 	public static void main(String[] args) {
-
-		//int inputNum = 78;
-		//Calculations c = new Calculations(0,3,1);
 		
-		//System.out.print(c.getGuessNumber());
-		
+		//instantiate the initial user input box, the UserInput class does the rest
 		UserInput ui = new UserInput();
 
 	}
